@@ -1,0 +1,87 @@
+Query: aer
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: aaww
+True Nearest neighbor-0: abco
+distanceApproximate: 9.16
+distanceTrue: 8.1
+tApp: 0.0655855s
+tTrue: 17.3766s
+Query: aeri
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: abg
+True Nearest neighbor-0: adc
+distanceApproximate: 60.15
+distanceTrue: 15.696
+tApp: 0.0053071s
+tTrue: 18.5498s
+Query: aes
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: acp
+True Nearest neighbor-0: acy
+distanceApproximate: 1.211
+distanceTrue: 2.37
+tApp: 0.201388s
+tTrue: 21.8647s
+Query: aet
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: adi
+True Nearest neighbor-0: adbe
+distanceApproximate: 64.389
+distanceTrue: 14.938
+tApp: 0.0812019s
+tTrue: 5.30983s
+Query: aeti
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: aeg
+True Nearest neighbor-0: acst
+distanceApproximate: 1.4436
+distanceTrue: 1.261
+tApp: 0.193686s
+tTrue: 15.1283s
+Query: aey
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: aau
+True Nearest neighbor-0: aau
+distanceApproximate: 1.61
+distanceTrue: 1.57
+tApp: 0.185286s
+tTrue: 17.059s
+Query: aezs
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: adm
+True Nearest neighbor-0: acer
+distanceApproximate: 38.273
+distanceTrue: 15.46
+tApp: 0.189702s
+tTrue: 7.05848s
+Query: afam
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: aem
+True Nearest neighbor-0: aem
+distanceApproximate: 9.945
+distanceTrue: 8.016
+tApp: 0.0827748s
+tTrue: 16.9357s
+Query: afb
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: acls
+True Nearest neighbor-0: abe
+distanceApproximate: 2.579
+distanceTrue: 2.0932
+tApp: 0.19665s
+tTrue: 23.7806s
+Query: afc
+Algorithm: LSH_Frechet_continuous
+Approximate Nearest neighbor-0: achv
+True Nearest neighbor-0: abrn
+distanceApproximate: 19.344
+distanceTrue: 0.996886
+tApp: 0.020508s
+tTrue: 19.5051s
+tApproximateAverage = 0.122209
+tTrueAverage = 16.2568
+MAF = 2.77762
+
+
+End of this query file
+
